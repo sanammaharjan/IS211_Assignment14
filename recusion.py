@@ -26,6 +26,6 @@ def compareTO(s1,s2):
 if __name__ == "__main__":
     print 'Fibonacci Result : %s ' % (fibonacci(20))
     print 'GCD Result : %s ' % (gcd(20, 30))
-    print 'Compare To Result : %s' % (compareTO('is211', 'is211-part1'))
+    print 'Compare To Result : %s' % (compareTO('is211-part2', 'is211-part'))
 
 
